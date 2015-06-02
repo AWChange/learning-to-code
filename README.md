@@ -1,2 +1,3 @@
 # learning-to-code
-test&amp;learning
+hello-world
+lesson1:learning to use git
